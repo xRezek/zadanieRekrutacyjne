@@ -21,4 +21,4 @@
    node main.js
    ```
 ## Opis działania
-Aplikacja umożliwia przetwarzanie tekstu zawartego w pliku article.txt, redagowanie go z użyciem API openAI oraz generowanie artykułu w formacie HTML. Ostateczny plik artykul.html jest przygotowany z uwzględnieniem określonych wytycznych.
+Aplikacja umożliwia redagowanie tekstu zawartego w pliku article.txt z użyciem API openAI oraz generowanie artykułu w formacie HTML. Ostateczny plik artykul.html jest przygotowany z uwzględnieniem określonych wytycznych.
